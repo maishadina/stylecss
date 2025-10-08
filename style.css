@@ -1,0 +1,23 @@
+/*fontfamily links*/
+@font-face{
+	src: url(../fonts/source-sans-pro/sourcesans-light.otf);
+	font-family: sourcesans-light;
+}
+
+@font-face{
+	src: url(../fonts/source-sans-pro/sourcesans-regular.otf);
+	font-family: sourcesans-regular;
+}
+
+
+h1{
+	font-family: sourcesans-regular;
+	font-size: 40px;
+    font-weight: 400;
+    color: red;
+}
+
+h2{
+	font-family: "Roboto", sans-serif;
+	font-weight: 100;
+}
